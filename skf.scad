@@ -94,5 +94,6 @@ module skf_assembly(P = SKF_LLTHC_U15, l=600, car=[0.5])
 	}
 }
 
-
+/*
 if ($preview) skf_assembly(car=[0.25 + sin($t*360)/4, 0.75 + (cos($t*360)*0.25)]);
+*/
